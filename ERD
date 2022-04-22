@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T08:02:10.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ebzr4ju-Fn_t6LKaPXJd" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T08:08:34.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="H1fqCHBZrUVNJO_tmUWe" version="17.1.3" type="github">
   <diagram id="UutRLGQDrqNRrCxJR9fT" name="Page-1">
-    <mxGraphModel dx="920" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="2371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,6 +514,9 @@
         <mxCell id="UMAUM7UozofSQ4k294Gd-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="UMAUM7UozofSQ4k294Gd-20" target="UMAUM7UozofSQ4k294Gd-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="UMAUM7UozofSQ4k294Gd-20" target="UMAUM7UozofSQ4k294Gd-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-20" value="ژانر" style="whiteSpace=wrap;html=1;align=center;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="1182" y="-350" width="100" height="40" as="geometry" />
         </mxCell>
@@ -561,6 +564,29 @@
         </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-34" value="توضیح کوتاه" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1183" y="-280.00000000000006" width="60" height="32.53" as="geometry" />
+        </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-36" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="-609.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-37" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="-851" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-39" value="ID فیلم" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1262" y="-430.00000000000006" width="60" height="32.53" as="geometry" />
+        </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-43" value="n" style="resizable=0;html=1;align=right;verticalAlign=bottom;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1160.001235503993" y="-740.0000927635296" as="geometry">
+            <mxPoint x="56" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-44" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1352" y="-602.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-45" value="n" style="resizable=0;html=1;align=right;verticalAlign=bottom;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1243.001235503993" y="-350.00009276352966" as="geometry" />
+        </mxCell>
+        <mxCell id="UMAUM7UozofSQ4k294Gd-46" value="n" style="resizable=0;html=1;align=right;verticalAlign=bottom;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1030.001235503993" y="-512.0000927635297" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
