@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T12:49:03.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="86GiI5RLqJltUqFpJ9KU" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T12:54:10.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7zl0oPlf6-HxFotIkf3d" version="17.5.0" type="github">
   <diagram id="UutRLGQDrqNRrCxJR9fT" name="Page-1">
-    <mxGraphModel dx="823" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,13 +544,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-29" value="نام" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1292" y="-107.62000000000006" width="60" height="32.53" as="geometry" />
+          <mxGeometry x="1272" y="-126.30000000000007" width="60" height="32.53" as="geometry" />
         </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-31" value="&lt;u&gt;ژانر ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1262" y="-70.03000000000006" width="60" height="32.53" as="geometry" />
         </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-34" value="توضیح کوتاه" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1143" y="-40.03000000000006" width="60" height="32.53" as="geometry" />
+          <mxGeometry x="1162" y="-50.00000000000006" width="60" height="32.53" as="geometry" />
         </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-36" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="1024" y="-414.59000000000003" width="20" height="20" as="geometry" />
