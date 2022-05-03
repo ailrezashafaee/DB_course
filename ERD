@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T12:48:42.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qV4h8PG2I6t14FCxbvbK" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T12:48:57.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="do3_KJ3iIyQ4IhTAm3dU" version="17.5.0" type="github">
   <diagram id="UutRLGQDrqNRrCxJR9fT" name="Page-1">
     <mxGraphModel dx="559" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -393,7 +393,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2bfoJ1Qs712ksbg75L7Z-101" value="کاربر ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="665" y="-64.59" width="49" height="30.12" as="geometry" />
+          <mxGeometry x="652" y="-64.59" width="49" height="30.12" as="geometry" />
         </mxCell>
         <mxCell id="2bfoJ1Qs712ksbg75L7Z-108" value="توضیحات" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="728" y="-64.59" width="51" height="25.06" as="geometry" />
@@ -503,9 +503,6 @@
         <mxCell id="UMAUM7UozofSQ4k294Gd-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="UMAUM7UozofSQ4k294Gd-20" target="UMAUM7UozofSQ4k294Gd-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UMAUM7UozofSQ4k294Gd-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="UMAUM7UozofSQ4k294Gd-20" target="UMAUM7UozofSQ4k294Gd-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-20" value="ژانر" style="whiteSpace=wrap;html=1;align=center;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="1142" y="-110.03" width="100" height="40" as="geometry" />
         </mxCell>
@@ -560,9 +557,6 @@
         </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-37" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" parent="1" vertex="1">
           <mxGeometry x="1225" y="-656.09" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UMAUM7UozofSQ4k294Gd-39" value="ID فیلم" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="1218" y="-147.62000000000006" width="60" height="32.53" as="geometry" />
         </mxCell>
         <mxCell id="UMAUM7UozofSQ4k294Gd-43" value="n" style="resizable=0;html=1;align=right;verticalAlign=bottom;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="1180.001235503993" y="-545.0900927635296" as="geometry">
