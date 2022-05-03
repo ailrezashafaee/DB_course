@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T11:27:18.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="IM06W0onIgbAzQ4NkoLq" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T11:27:35.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Fg8Eqvf8gWwYPaQJNMDd" version="17.5.0" type="github">
   <diagram id="UutRLGQDrqNRrCxJR9fT" name="Page-1">
-    <mxGraphModel dx="920" dy="1363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="423" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,7 +460,7 @@
         <mxCell id="hiB25_rABb_BLzK3iJFb-6" value="&lt;span style=&quot;font-size: 10px&quot;&gt;نوع(لای / بازدید)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="571" y="-330.31000000000006" width="62" height="26.22" as="geometry" />
         </mxCell>
-        <mxCell id="cDcvD83ZyFr93kSj-ery-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;endFill=0;" parent="1" source="5UtSJIayFXfdA5uV25hP-1" target="cDcvD83ZyFr93kSj-ery-1" edge="1">
+        <mxCell id="cDcvD83ZyFr93kSj-ery-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;endFill=0;" parent="1" source="5UtSJIayFXfdA5uV25hP-1" target="cDcvD83ZyFr93kSj-ery-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5UtSJIayFXfdA5uV25hP-1" value="فیلم" style="whiteSpace=wrap;html=1;align=center;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
